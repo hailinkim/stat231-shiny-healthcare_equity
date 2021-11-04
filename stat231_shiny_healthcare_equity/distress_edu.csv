@@ -1,0 +1,21 @@
+edu,type,prop
+Associate degree,anxiety,0.15947242206235013
+Associate degree,depression,0.2014388489208633
+Bachelor's degree,anxiety,0.1283084004602992
+Bachelor's degree,depression,0.1406789413118527
+Doctoral degree,anxiety,0.09312977099236641
+Doctoral degree,depression,0.10381679389312977
+GED or equivalent,anxiety,0.27319587628865977
+GED or equivalent,depression,0.30927835051546393
+High school graduate,anxiety,0.14585858585858585
+High school graduate,depression,0.18356902356902358
+Less than a high school diploma,anxiety,0.21041593848304788
+Less than a high school diploma,depression,0.2694861936385879
+Master's degree,anxiety,0.09965954812751471
+Master's degree,depression,0.11389662643144537
+Never attended/kindergarten only,anxiety,0.11827956989247312
+Never attended/kindergarten only,depression,0.23655913978494625
+Professional school degree,anxiety,0.10933940774487472
+Professional school degree,depression,0.1366742596810934
+"Some college, no degree",anxiety,0.17043711656441718
+"Some college, no degree",depression,0.21836656441717792

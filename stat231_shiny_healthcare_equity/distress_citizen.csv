@@ -1,0 +1,13 @@
+citizen_years,type,prop
+"Non-US Citizen, 1 to less than 5 years",anxiety,0.08877284595300261
+"Non-US Citizen, 1 to less than 5 years",depression,0.09660574412532635
+"Non-US Citizen, 10 to less than 15 years",anxiety,0.04946996466431095
+"Non-US Citizen, 10 to less than 15 years",depression,0.07773851590106007
+"Non-US Citizen, 15 years or more",anxiety,0.1074660633484163
+"Non-US Citizen, 15 years or more",depression,0.12782805429864252
+"Non-US Citizen, 5 to less than 10 years",anxiety,0.10060975609756098
+"Non-US Citizen, 5 to less than 10 years",depression,0.10365853658536583
+"Non-US Citizen, Less than 1 year",anxiety,0.075
+"Non-US Citizen, Less than 1 year",depression,0.125
+US Citizen,anxiety,0.1569992796624704
+US Citizen,depression,0.192707440057627
